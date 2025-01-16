@@ -796,8 +796,7 @@ Assets used in the project are [here](https://drive.google.com/file/d/1v6h993BgY
 
 If you think this project was great visit my github for more such amazing  projects
 
-<a href="[(https://github.com/navypatel)]" target="_blank">
-</a>
+[Github](https://github.com/navypatel)
 
 <br />
 <br />
@@ -805,13 +804,9 @@ If you think this project was great visit my github for more such amazing  proje
 **Also here are my social links**
 
 
-<a href="[https://www.instagram.com/navypatell]" target="_blank">
-  <a/>
-<a href="[https://www.linkedin.com/in/navy-patel-a2121b2b7]" target="_blank">
-</a>
-<a href="[https://www.facebook.com/navypatell]" target="_blank">
-</a>
-
+[Instagram](https://www.instagram.com/navypatell)
+[LinkedIn](https://www.linkedin.com/in/navy-patel-a2121b2b7)
+[Facebook](https://www.facebook.com/navypatell)
 
 
 #
