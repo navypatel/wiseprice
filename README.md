@@ -790,3 +790,26 @@ export const formatNumber = (num: number = 0) => {
 
 Assets used in the project are [here](https://drive.google.com/file/d/1v6h993BgYX6axBoIXFbZ9HQAgqbR4PSH/view?usp=sharing)
 
+## <a name="more">🚀 More</a>
+
+**For More Projects Visit my Github**
+
+If you think this project was great visit my github for more such amazing  projects
+
+<a href="[(https://github.com/navypatel)]" target="_blank">
+</a>
+
+<br />
+<br />
+
+**Also here are my social links**
+
+
+<a href="[https://www.instagram.com/navypatell]" target="_blank"/>
+<a href="[https://www.linkedin.com/in/navy-patel-a2121b2b7]" target="_blank"/>
+<a href="[https://www.facebook.com/navypatell]" target="_blank"/>
+
+
+
+#
+
