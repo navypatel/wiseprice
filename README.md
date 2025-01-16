@@ -69,8 +69,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/pricewise.git
-cd pricewise
+git clone https://github.com/navypatel/wiseprice.git
+cd wiseprice
 ```
 
 **Installation**
